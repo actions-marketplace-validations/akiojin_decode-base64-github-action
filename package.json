@@ -29,7 +29,7 @@
     "@types/node": "22.10.5",
     "@types/tmp": "0.2.5",
     "@vercel/ncc": "0.38.3",
-    "rimraf": "6.0.1",
+    "rimraf": "6.1.2",
     "typescript": "5.7.2"
   },
   "private": true
